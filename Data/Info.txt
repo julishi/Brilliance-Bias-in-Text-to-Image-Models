@@ -1,4 +1,0 @@
-Folder containing all the data generated that we analyzed for our ICCC 23 Long Paper: 
-"What Does Genius Look Like? An Analysis of Brilliance Bias in Text-to-Image Models". 
-
-Citation: Shihadeh, J., and Ackerman, M. 2023. What does genius look like? an analysis brilliance bias in text-to-imagine models
